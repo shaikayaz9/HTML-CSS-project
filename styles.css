@@ -1,0 +1,123 @@
+*{padding:0;
+ margin:0; 
+ text-align:center;
+
+ }
+header{color:white;
+background-color:blue;
+padding:34px;
+}
+body{
+	background-color:powderblue;
+	height:100px;
+}
+main{
+	padding:20px;
+}
+
+li{color:white;
+background-color:blue;
+list-style:none;
+float:center;
+border:1px black solid;
+padding:250px;
+
+}
+form{
+	padding:20px;
+	text-align:center;
+	float:center;
+}
+
+ul {
+	list-style:none;
+}
+nav,a{
+	text-decoration:none;
+	display:block;
+	color:white;
+	list-style:none;
+	text-align:center;
+	float:center;
+}
+footer{color:white;
+	height:20px;
+background-color:blue;
+padding:30px;
+align:buttom;
+}
+#btn1{
+	color:red;
+}
+div{
+	text-align:justify;
+	text-align:center;
+}
+
+}
+main{
+	padding:50px;
+	background-color:powderblue; 
+	height:200px;                                 ;
+}
+#pp1{
+	background-color:lightgreen;
+	text-align:justify;
+	padding:25px;
+}
+#hh1 {
+	background-color:blue;
+	color:white;
+	padding:50px;
+}
+#pp2{
+	background-color:lightgreen;
+	text-align:justify;
+	padding:10px;
+}
+#hh2 {
+	background-color:blue;
+	color:white;
+	padding:34px;
+}
+#pp3{
+	background-color:yellow;
+	text-align:justify;
+	padding:20px;
+}
+#hh3{
+	background-color:blue;
+	padding:25px;
+	color:white;
+}
+#divv{padding:25px;
+	height:230px;
+	
+}
+li{ padding:5px;
+}
+/* hover section */
+
+a:hover{
+	color:black;
+}
+li:hover{
+	color:black;
+	background-color:lightblue;
+}
+#btn1:hover{
+	color:orange;
+	border:2px black solid;
+}
+@media only screen and (min-width:300px) {
+	body{background-color:powderblue;}} 
+
+@media only screen and (min-width:760px) {
+	body{background-color:powderblue;}}
+
+@media only screen and (min-width:950px) {
+	body{background-color:powderblue;}}
+
+@media only screen and (min-width:1200px) {
+	body{background-color:powderblue;}
+}
