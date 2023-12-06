@@ -1,0 +1,47 @@
+*{
+	background-color:powderblue;
+	padding:15px;
+	Margin:5px;
+}
+/* color text */
+#red{
+	color:red;
+}
+
+#blue{
+	color:blue;
+}
+
+#green{
+	color:green;
+}
+
+#yellow{
+	color:yellow;
+}
+
+#pink{
+	color:pink;
+}
+
+#orange{
+	color:orange;
+}
+
+#black{
+	color:black;
+}
+
+#gray{
+	color:gray;
+}
+
+.colorr{
+	font-weight:normal;
+}
+/* image's */
+
+img{
+	height:200px;
+	width:200px;
+}
